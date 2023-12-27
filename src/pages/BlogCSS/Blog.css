@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.active{
+    color: rgba(0, 121, 191, 0.946) !important;
+}
+
+.carousel-item{
+    background-color: #f8f9fa;
+   
+}
+.ShortTitle{
+    font-size: 15px;
+    color: #5d5d5d;
+    width: 90%;
+   
+}
+.partho{
+    font-size: 15px;
+    color: #5d5d5d;
+    font-weight: 500;
+    }
+.ShortTitlee {
+    margin-top: -17px;
+
+}
+
+.longTitle{
+    font-size: 20px;
+    color: #0b0b0b;
+}
+.carousel-control-prev-icon{
+    background-image: url(arrow-left-circle-fill.svg) !important;
+    margin-left: -120px;
+    position: relative; 
+    top: -100px;
+}
+.carousel-control-next-icon{
+    background-image: url(arrow-right-circle-fill.svg) !important;
+    margin-right: -120px;
+    top: 150px;
+    position: relative; 
+    top: -100px;
+ 
+}
+.navbar-brand{
+    margin-top: 12px;
+    padding-left: 100px;
+    font-weight: bolder;
+    font-style: italic;
+    
+}
+
+
